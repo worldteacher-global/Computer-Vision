@@ -3,6 +3,9 @@ Image set:
 https://bbbc.broadinstitute.org/image_sets
 
 # Compute
+https://docs.aws.amazon.com/sagemaker/latest/dg/notebooks-available-instance-types.html
+
+
 * Instnce: ml.g4dn.xlarge 
 * Use case: Accelerated computing    
 * Fast launch: Yes	
