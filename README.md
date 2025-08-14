@@ -1,6 +1,9 @@
 # Computer-Vision
-Image set:
 https://bbbc.broadinstitute.org/image_sets
+
+Image set:
+* BBBC021
+
 
 # Compute
 https://docs.aws.amazon.com/sagemaker/latest/dg/notebooks-available-instance-types.html
